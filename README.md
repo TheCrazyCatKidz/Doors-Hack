@@ -1,4 +1,4 @@
 # Doors Exploit
 
-Run this in your executor:
-`loadstring(game:HttpGet("https://raw.githubusercontent.com/TheCrazyCatKidz/Doors-Hack/main/graball"))()`
+Run the following in your executor:
+`loadstring(game:HttpGet("https://raw.githubusercontent.com/TheCrazyCatKidz/Doors-Hack/script/one"))()loadstring(game:HttpGet("https://raw.githubusercontent.com/TheCrazyCatKidz/Doors-Hack/script/two"))()loadstring(game:HttpGet("https://raw.githubusercontent.com/TheCrazyCatKidz/Doors-Hack/script/three"))()`
